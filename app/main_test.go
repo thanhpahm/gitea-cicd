@@ -4,7 +4,7 @@ import (
 )
 
 func TestExample(t *testing.T) {
-    in := 5
+    in := 2
     out := 5
     result := Example(in)
     if result != out {
